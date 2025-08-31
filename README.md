@@ -24,8 +24,8 @@ A powerful, real-time job board application that continuously fetches and displa
 
 1. **Clone or download the project**
    ```bash
-   git clone <repository-url>
-   cd job-board
+   git clone https://github.com/Hardik-369/Professional-Job-Board
+   cd Professional-Job-Board
    ```
 
 2. **Install dependencies**
